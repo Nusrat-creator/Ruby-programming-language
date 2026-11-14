@@ -1,22 +1,3 @@
-<style>
-.wrap{font-family:'Segoe UI',system-ui,sans-serif;color:#2c3e50;line-height:1.6;max-width:850px;margin:auto;padding:20px}
-.hero{text-align:center;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;padding:28px;border-radius:12px}
-.hero h1{margin:0;font-size:2.1em}
-.hero p{margin:8px 0 0;opacity:.9}
-.card{background:#fff;border-left:5px solid #667eea;border-radius:10px;padding:18px;margin:18px 0;box-shadow:0 2px 8px rgba(0,0,0,.06)}
-.card h2{margin:0 0 10px;color:#764ba2;font-size:1.3em}
-.blank{display:inline-block;width:240px;border-bottom:2px dashed #667eea}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
-.item{background:#f8f9fa;border:1px solid #e9ecef;border-radius:8px;padding:14px}
-.item h3{margin:0 0 6px;font-size:1.05em}
-.item p{margin:0;font-size:.9em;color:#7f8c8d}
-.tag{display:inline-block;margin-top:8px;padding:2px 8px;border-radius:12px;font-size:.75em;font-weight:700}
-.wip{background:#fff3cd;color:#856404}
-.done{background:#d4edda;color:#155724}
-.files{list-style:none;padding:0;margin:0}
-.files li{padding:9px 0;border-bottom:1px solid #eee}
-.foot{text-align:center;color:#95a5a6;font-size:.9em;margin-top:24px}
-</style>
 <div class="wrap">
   <div class="hero">
     <h1>🚀 My Learning Journey</h1>
